@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Githup setup test
+# Github setup test
 
 My first github file 
 
